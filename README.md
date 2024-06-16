@@ -29,5 +29,4 @@ The results show significant relationships between age structure and GDP growth.
 ## Future Improvements
 - **Increase Sample Size**: Collect more data to enhance the robustness of the regression estimates.
 - **Improve Instrumental Variables**: Identify and use stronger instrumental variables to address endogeneity issues more effectively.
-- **Refine Model Specification**: Consider additional control variables and interaction terms to better capture the complex dynamics between age structure and GDP growth.
 
